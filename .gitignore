@@ -1,0 +1,26 @@
+# Large model weight files - too big for GitHub (>100MB)
+weights/*.caffemodel
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# IDE
+.vscode/settings.json
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Webcam captures (temporary)
+webcam_snap.jpg
+recorded.wav
