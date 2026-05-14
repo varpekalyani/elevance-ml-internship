@@ -9,7 +9,7 @@
 ---
 
 ##📌Overview
-###This project integrates six machine learning tasks into a unified tabbed GUI application. Built with Python, OpenCV, and Tkinter, it demonstrates applied ML skills across computer vision, audio analysis, and rule‑based logic
+### This project integrates six machine learning tasks into a unified tabbed GUI application. Built with Python, OpenCV, and Tkinter, it demonstrates applied ML skills across computer vision, audio analysis, and rule‑based logic
 
 ---
 
@@ -88,7 +88,7 @@ python main_app.py
 
 ---
 
-##🧠 Models Used
+## 🧠Models Used
 
 | Model | Purpose | Source |
 |-------|---------|--------|
@@ -102,7 +102,7 @@ All weights download automatically on first run.
 
 ---
 
-##📬Contact
+## 📬Contact
 
 Email: training@elevanceskills.com  
 Include: Name, Domain, GitHub Link
