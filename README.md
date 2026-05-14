@@ -7,8 +7,10 @@
 ![Deadline](https://img.shields.io/badge/Deadline-22%2F07%2F2026-red)
 
 ---
-
-## Project Structure
+##📌Overview
+This project integrates six machine learning tasks into a unified tabbed GUI application. Built with Python, OpenCV, and Tkinter, it demonstrates applied ML skills across computer vision, audio analysis, and rule‑based logic
+---
+##📂 Project Structure
 
 ```
 Elevance skills/
@@ -29,7 +31,7 @@ Elevance skills/
 
 ---
 
-## Quick Start
+##⚡Quick Start
 
 ```bash
 pip install -r requirements.txt
@@ -82,7 +84,7 @@ python main_app.py
 
 ---
 
-## Models Used
+##🧠 Models Used
 
 | Model | Purpose | Source |
 |-------|---------|--------|
@@ -96,7 +98,7 @@ All weights download automatically on first run.
 
 ---
 
-## Contact
+##📬Contact
 
 Email: training@elevanceskills.com  
 Include: Name, Domain, GitHub Link
