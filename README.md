@@ -38,7 +38,7 @@ python main_app.py
 
 ---
 
-## Tasks
+## 🧩Tasks
 
 ### Task 1 — Long Hair Gender Detection
 - Upload image or webcam snap
