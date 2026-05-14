@@ -7,9 +7,12 @@
 ![Deadline](https://img.shields.io/badge/Deadline-22%2F07%2F2026-red)
 
 ---
+
 ##📌Overview
-This project integrates six machine learning tasks into a unified tabbed GUI application. Built with Python, OpenCV, and Tkinter, it demonstrates applied ML skills across computer vision, audio analysis, and rule‑based logic
+###This project integrates six machine learning tasks into a unified tabbed GUI application. Built with Python, OpenCV, and Tkinter, it demonstrates applied ML skills across computer vision, audio analysis, and rule‑based logic
+
 ---
+
 ##📂 Project Structure
 
 ```
@@ -27,9 +30,10 @@ Elevance skills/
 │   └── task6_nationality.py
 ├── weights/                 ← Auto-downloaded on first run
 └── logs/                    ← CSV + Excel output (Task 2)
+
 ```
 
----
+
 
 ##⚡Quick Start
 
