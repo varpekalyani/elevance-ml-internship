@@ -8,7 +8,7 @@
 
 ---
 
-##📌Overview
+## 📌Overview
 ### This project integrates six machine learning tasks into a unified tabbed GUI application. Built with Python, OpenCV, and Tkinter, it demonstrates applied ML skills across computer vision, audio analysis, and rule‑based logic
 
 ---
